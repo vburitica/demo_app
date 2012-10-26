@@ -1,2 +1,2 @@
-blog
+demo_app
 =====
